@@ -1,0 +1,47 @@
+* {
+    text-align: center;
+}
+
+body{
+    background-color: rgb(211, 211, 182);
+}
+
+div {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin: -2px;
+}
+
+.center {
+    text-align: center;
+}
+.vermelho{
+    background-color: red;
+}
+
+.azul{
+    background-color: blue;
+}
+
+.verde{
+    background-color: green;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+#canto{
+   border: 2px solid black; 
+}
+#canto:hover{
+    background-color: rgb(252, 123, 2);
+    
+}
+
+footer{
+    font: verdana, 12px, italic, black;
+    text-align: right;
+}
